@@ -1,37 +1,116 @@
-## Welcome to GitHub Pages
+## Welcome to my Portfolio
 
-You can use the [editor on GitHub](https://github.com/danielpaz6/danielpaz6.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here you can see some of my projects that I've been working on in my academic studies or in my free time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Online Texas Holdem Game
 
-### Markdown
+Online poker game based on .NET, CSS and JavaScript used widely in this project.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<a href="https://jspoker.net"><img src="assets/demo/jspoker-demo6.gif" width="100%" /></a>
 
-```markdown
-Syntax highlighted code block
+**[C#](https://github.com/danielpaz6?tab=repositories&q=csharp)**
+**[.NET](https://github.com/danielpaz6?tab=repositories&q=.NET)**
+**[Entity Framework](https://github.com/danielpaz6?tab=repositories&q=EntityFramework)**
+**[JavaScript](https://github.com/danielpaz6?tab=repositories&q=js)**
+**[jQuery](https://github.com/danielpaz6?tab=repositories&q=jquery)**
+**[CSS3](https://github.com/danielpaz6?tab=repositories&q=css3)**
 
-# Header 1
-## Header 2
-### Header 3
+For live demo please visit [jspoker.net](https://jspoker.net)
 
-- Bulleted
-- List
+<hr />
 
-1. Numbered
-2. List
+### Neural Network Builder
 
-**Bold** and _Italic_ and `Code` text
+Deep neural networks can be hard to understand, and notoriously difficult to plan and modify. I built a user interface website using React.JS that allows you to easily visualize and make modifications in neural network architectures.
 
-[Link](url) and ![Image](src)
-```
+<a href="https://nnbuilder.io"><img src="https://raw.githubusercontent.com/danielpaz6/NNBuilder/master/demo.png" width="100%" /></a>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**[React.JS](https://github.com/danielpaz6?tab=repositories&q=reactjs)**
+**[Redux](https://github.com/danielpaz6?tab=repositories&q=redux)**
+**[TypeScript](https://github.com/danielpaz6?tab=repositories&q=typescript)**
+**[Drag-and-Drop](https://github.com/danielpaz6?tab=repositories&q=Drag-and-Drop)**
+**[graph-alogrithms](https://github.com/danielpaz6?tab=repositories&q=graph-algorithms)**
 
-### Jekyll Themes
+For more details see [NNBuilder Repository](https://github.com/danielpaz6/NNBuilder).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danielpaz6/danielpaz6.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<hr />
 
-### Support or Contact
+### Edit Code Online
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A MERN stack website that allows you to code, chat and draw with friends in a live environment. 
+I also made a nice responsive UI with a lot of CSS3 features.
+
+<a href="https://editcode.herokuapp.com/"><img src="assets/demo/editcode-demo.gif" width="100%" /></a>
+
+**[React.JS](https://github.com/danielpaz6?tab=repositories&q=reactjs)**
+**[Next.JS](https://github.com/danielpaz6?tab=repositories&q=nextjs)**
+**[Redux](https://github.com/danielpaz6?tab=repositories&q=redux)**
+**[Node.JS](https://github.com/danielpaz6?tab=repositories&q=nodejs)**
+**[socket.io](https://github.com/danielpaz6?tab=repositories&q=socketio)**
+**[mern-stack](https://github.com/danielpaz6?tab=repositories&q=mern-stack)**
+**[jwt](https://github.com/danielpaz6?tab=repositories&q=jwt)**
+**[css3](https://github.com/danielpaz6?tab=repositories&q=css3)**
+
+For live demo please visit [editcode.herokuapp.com](https://editcode.herokuapp.com/)
+
+<hr />
+
+### Texas Holdem Hand Evaluator
+
+An algorithm that gives a rating to each player's hand with a nice UI that I made.
+
+<a href="http://evaluator.jspoker.net/"><img src="assets/demo/texasholdem-evaluator-demo3.gif" width="100%" /></a>
+
+**[C#](https://github.com/danielpaz6?tab=repositories&q=csharp)**
+**[.NET](https://github.com/danielpaz6?tab=repositories&q=.NET)**
+**[JavaScript](https://github.com/danielpaz6?tab=repositories&q=js)**
+**[jQuery](https://github.com/danielpaz6?tab=repositories&q=jquery)**
+**[CSS3](https://github.com/danielpaz6?tab=repositories&q=css3)**
+
+For more details see [Poker-Hand-Evaluator](https://github.com/danielpaz6/Poker-Hand-Evaluator).
+
+<hr />
+
+### Tetris Game
+
+A tetris game using React.JS, Hooks, CSS3 and react-bootstrap.
+
+<a href="https://danielpaz6.github.io/React-Tetris-Game/"><img src="https://raw.githubusercontent.com/danielpaz6/React-Tetris-Game/master/assets/demo3.png" width="100%" /></a>
+
+**[React.JS](https://github.com/danielpaz6?tab=repositories&q=reactjs)**
+**[hooks](https://github.com/danielpaz6?tab=repositories&q=hooks)**
+**[JavaScript](https://github.com/danielpaz6?tab=repositories&q=js)**
+**[CSS3](https://github.com/danielpaz6?tab=repositories&q=css3)**
+
+For more details see [React-Tetris-Game](https://github.com/danielpaz6/React-Tetris-Game).
+
+<hr />
+
+### Covid19 Statistics
+
+A React JS application to Track Corona infected people using Material UI and Chart JS.
+
+<a href="https://danielpaz6.github.io/react-covid-19-app/"><img src="https://raw.githubusercontent.com/danielpaz6/react-covid-19-app/master/demo.png" width="100%" /></a>
+
+**[React.JS](https://github.com/danielpaz6?tab=repositories&q=reactjs)**
+**[ChartJs](https://github.com/danielpaz6?tab=repositories&q=ChartJs)**
+**[Material-UI](https://github.com/danielpaz6?tab=repositories&q=Material-UI)**
+**[TypeScript](https://github.com/danielpaz6?tab=repositories&q=typescript)**
+**[CSS3](https://github.com/danielpaz6?tab=repositories&q=css3)**
+
+For more details see [react-covid-19-app](https://github.com/danielpaz6/react-covid-19-app).
+
+<hr />
+
+### Flight Simulator Controller GUI
+
+A code where you can control an airplane simulator using a joystick or script, with a nice interface GUI.
+
+<a href="https://www.youtube.com/watch?v=GJdyEY4cXHk"><img src="https://raw.githubusercontent.com/danielpaz6/FlightSimulatorControl/master/uml/demo3.png" width="100%" /></a>
+
+**[Java](https://github.com/danielpaz6?tab=repositories&q=java)**
+**[JavaFX](https://github.com/danielpaz6?tab=repositories&q=javafx)**
+**[mvvm-architecture](https://github.com/danielpaz6?tab=repositories&q=mvvm-architecture)**
+**[design-patterns](https://github.com/danielpaz6?tab=repositories&q=design-patterns)**
+
+For more details see [FlightSimulatorControl](https://github.com/danielpaz6/FlightSimulatorControl).
