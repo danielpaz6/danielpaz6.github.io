@@ -14,6 +14,7 @@ Online poker game based on .NET, CSS and JavaScript used widely in this project.
 **[JavaScript](https://github.com/danielpaz6?tab=repositories&q=js)**
 **[jQuery](https://github.com/danielpaz6?tab=repositories&q=jquery)**
 **[CSS3](https://github.com/danielpaz6?tab=repositories&q=css3)**
+**[Bootstrap](https://github.com/danielpaz6?tab=repositories&q=bootstrap)**
 
 For live demo please visit [jspoker.net](https://jspoker.net)
 
@@ -30,6 +31,7 @@ Deep neural networks can be hard to understand, and notoriously difficult to pla
 **[TypeScript](https://github.com/danielpaz6?tab=repositories&q=typescript)**
 **[Drag-and-Drop](https://github.com/danielpaz6?tab=repositories&q=Drag-and-Drop)**
 **[graph-alogrithms](https://github.com/danielpaz6?tab=repositories&q=graph-algorithms)**
+**[Bootstrap](https://github.com/danielpaz6?tab=repositories&q=bootstrap)**
 
 For more details see [NNBuilder Repository](https://github.com/danielpaz6/NNBuilder).
 
@@ -66,14 +68,15 @@ An algorithm that gives a rating to each player's hand with a nice UI that I mad
 **[JavaScript](https://github.com/danielpaz6?tab=repositories&q=js)**
 **[jQuery](https://github.com/danielpaz6?tab=repositories&q=jquery)**
 **[CSS3](https://github.com/danielpaz6?tab=repositories&q=css3)**
+**[Bootstrap](https://github.com/danielpaz6?tab=repositories&q=bootstrap)**
 
-For more details see [Poker-Hand-Evaluator](https://github.com/danielpaz6/Poker-Hand-Evaluator).
+For more details see [Poker-Hand-Evaluator Repository](https://github.com/danielpaz6/Poker-Hand-Evaluator).
 
 <hr />
 
 ### Tetris Game
 
-A tetris game using React.JS, Hooks, CSS3 and react-bootstrap.
+A tetris game I made using React.JS, Hooks, CSS3 and a nice minimal UI using react-bootstrap.
 
 <a href="https://danielpaz6.github.io/React-Tetris-Game/"><img src="https://raw.githubusercontent.com/danielpaz6/React-Tetris-Game/master/assets/demo3.png" width="100%" /></a>
 
@@ -81,8 +84,9 @@ A tetris game using React.JS, Hooks, CSS3 and react-bootstrap.
 **[hooks](https://github.com/danielpaz6?tab=repositories&q=hooks)**
 **[JavaScript](https://github.com/danielpaz6?tab=repositories&q=js)**
 **[CSS3](https://github.com/danielpaz6?tab=repositories&q=css3)**
+**[Bootstrap](https://github.com/danielpaz6?tab=repositories&q=bootstrap)**
 
-For more details see [React-Tetris-Game](https://github.com/danielpaz6/React-Tetris-Game).
+For more details see [React-Tetris-Game Repository](https://github.com/danielpaz6/React-Tetris-Game).
 
 <hr />
 
@@ -98,7 +102,7 @@ A React JS application to Track Corona infected people using Material UI and Cha
 **[TypeScript](https://github.com/danielpaz6?tab=repositories&q=typescript)**
 **[CSS3](https://github.com/danielpaz6?tab=repositories&q=css3)**
 
-For more details see [react-covid-19-app](https://github.com/danielpaz6/react-covid-19-app).
+For more details see [React-covid-19-app Repository](https://github.com/danielpaz6/react-covid-19-app).
 
 <hr />
 
@@ -113,4 +117,4 @@ A code where you can control an airplane simulator using a joystick or script, w
 **[mvvm-architecture](https://github.com/danielpaz6?tab=repositories&q=mvvm-architecture)**
 **[design-patterns](https://github.com/danielpaz6?tab=repositories&q=design-patterns)**
 
-For more details see [FlightSimulatorControl](https://github.com/danielpaz6/FlightSimulatorControl).
+For more details see [FlightSimulatorControl Repository](https://github.com/danielpaz6/FlightSimulatorControl).
