@@ -90,6 +90,22 @@ For more details see [React-Tetris-Game Repository](https://github.com/danielpaz
 
 <hr />
 
+### Flappy Bird A.I.
+
+A flappy bird game that learns to play by itself using Deep Q Learning and JavaScript and exciting technologies such as Tensorflow.js, D3 and Webpack.
+
+<a title="Click here to watch a demo" href="https://danielpaz6.github.io/Flappy-Birds-DQN/"><img src="https://github.com/danielpaz6/Flappy-Birds-DQN/blob/master/demo.gif?raw=true" width="100%" /></a>
+
+**[D3.js](https://github.com/danielpaz6?tab=repositories&q=d3js)**
+**[Tensorflow.js](https://github.com/danielpaz6?tab=repositories&q=tensorflowjs)**
+**[WebPack](https://github.com/danielpaz6?tab=repositories&q=webpack4)**
+**[CSS3](https://github.com/danielpaz6?tab=repositories&q=css3)**
+**[FlappyBird](https://github.com/danielpaz6?tab=repositories&q=flappybird)**
+
+For more details see [Flappy-Birds-DQN Repository](https://github.com/danielpaz6/Flappy-Birds-DQN).
+
+<hr />
+
 ### Covid19 Statistics
 
 A React JS application to Track Corona infected people using Material UI and Chart JS.
