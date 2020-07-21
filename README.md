@@ -98,7 +98,7 @@ A flappy bird game that learns to play by itself using Deep Q Learning and JavaS
 
 **[D3.js](https://github.com/danielpaz6?tab=repositories&q=d3js)**
 **[Tensorflow.js](https://github.com/danielpaz6?tab=repositories&q=tensorflowjs)**
-**[WebPack](https://github.com/danielpaz6?tab=repositories&q=webpack4)**
+**[Webpack](https://github.com/danielpaz6?tab=repositories&q=webpack4)**
 **[CSS3](https://github.com/danielpaz6?tab=repositories&q=css3)**
 **[FlappyBird](https://github.com/danielpaz6?tab=repositories&q=flappybird)**
 
