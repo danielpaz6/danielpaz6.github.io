@@ -24,7 +24,7 @@ For live demo please visit [jspoker.net](https://jspoker.net)
 
 Deep neural networks can be hard to understand, and notoriously difficult to plan and modify. I built a user interface website using React.JS that allows you to easily visualize and make modifications in neural network architectures.
 
-<a title="Click here to watch a demo" href="https://nnbuilder.io"><img src="https://raw.githubusercontent.com/danielpaz6/NNBuilder/master/demo.png" width="100%" /></a>
+<a title="Click here to watch a demo" href="https://danielpaz6.github.io/NNBuilder"><img src="https://raw.githubusercontent.com/danielpaz6/NNBuilder/master/demo.png" width="100%" /></a>
 
 **[React.JS](https://github.com/danielpaz6?tab=repositories&q=reactjs)**
 **[Redux](https://github.com/danielpaz6?tab=repositories&q=redux)**
